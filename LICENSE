@@ -1,7 +1,8 @@
-                    GNU GENERAL PUBLIC LICENSE
+GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ and Copyright (C) 2025 Simon Pan
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -267,10 +268,10 @@ in one of these ways:
     Corresponding Source from a network server at no charge.
 
     c) Convey individual copies of the object code with a copy of the
-    written offer to provide the Corresponding Source.  This
-    alternative is allowed only occasionally and noncommercially, and
-    only if you received the object code with such an offer, in accord
-    with subsection 6b.
+    written offer to provide the Corresponding Source.  This alternative
+    is allowed only occasionally and noncommercially, and only if you
+    received the object code with such an offer, in accord with
+    subsection 6b.
 
     d) Convey the object code by offering access from a designated
     place (gratis or for a charge), and offer equivalent access to the
@@ -279,66 +280,54 @@ in one of these ways:
     Corresponding Source along with the object code.  If the place to
     copy the object code is a network server, the Corresponding Source
     may be on a different server (operated by you or a third party)
-    that supports equivalent copying facilities, provided you maintain
-    clear directions next to the object code saying where to find the
-    Corresponding Source.  Regardless of what server hosts the
-    Corresponding Source, you remain obligated to ensure that it is
-    available for as long as needed to satisfy these requirements.
+    or on a different medium, provided that it is accessible to the
+    public at no charge other than network charges, for up to three
+    years.  Use of the indicated location for the Corresponding Source
+    satisfies the requirement to convey Corresponding Source along with
+    the object code, even if the location is a network server
+    maintained by a third party.
 
-    e) Convey the object code using peer-to-peer transmission, provided
-    you inform other peers where the object code and Corresponding
-    Source of the work are being offered to the general public at no
-    charge under subsection 6d.
+    e) Convey individual copies of the object code with a copy of the
+    written offer to provide the Corresponding Source.  This alternative
+    is allowed only occasionally and noncommercially, and only if you
+    received the object code with such an offer, in accord with
+    subsection 6b.
 
-  A separable portion of the object code, whose source code is excluded
-from the Corresponding Source as a System Library, need not be
-included in conveying the object code work.
+    f) Convey individual copies of the object code with the Corresponding
+    Source conveyed under the terms of sections 4 and 5 above.
 
-  A "User Product" is either (1) a "consumer product", which means any
-tangible personal property which is normally used for personal, family,
-or household purposes, or (2) anything designed or sold for incorporation
-into a dwelling.  In determining whether a product is a consumer product,
-doubtful cases shall be resolved in favor of coverage.  For a particular
-product received by a particular user, "normally used" refers to a
-typical or common use of that class of product, regardless of the status
-of the particular user or of the way in which the particular user
-actually uses, or expects or is expected to use, the product.  A product
-is a consumer product regardless of whether the product has substantial
-commercial, industrial or non-consumer uses, unless such uses represent
-the only significant mode of use of the product.
+    g) Convey object code under terms that require users to "interact
+    extensively" with another program that is available under this
+    License, and that allows the user to control the object code by
+    means of a "standard interface" (defined in section 1), provided
+    that the Corresponding Source for the object code is available
+    either from you or through a written offer as described in
+    subsection 6b, and the object code is conveyed with the complete
+    Corresponding Source.
 
-  "Installation Information" for a User Product means any methods,
-procedures, authorization keys, or other information required to install
-and execute modified versions of a covered work in that User Product from
-a modified version of its Corresponding Source.  The information must
-suffice to ensure that the continued functioning of the modified object
-code is in no case prevented or interfered with solely because
-modification has been made.
+    h) Convey object code under terms that require that the Corresponding
+    Source for the object code be available on the same terms and
+    conditions as the object code itself, and that allow modification
+    and reverse engineering of the object code only in certain ways
+    specified in the object code itself, and that do not prevent the
+    user from controlling the object code by means of a "standard
+    interface" (defined in section 1), provided that the Corresponding
+    Source for the object code is available either from you or through
+    a written offer as described in subsection 6b.
 
-  If you convey an object code work under this section in, or with, or
-specifically for use in, a User Product, and the conveying occurs as
-part of a transaction in which the right of possession and use of the
-User Product is transferred to the recipient in perpetuity or for a
-fixed term (regardless of how the transaction is characterized), the
-Corresponding Source conveyed under this section must be accompanied
-by the Installation Information.  But this requirement does not apply
-if neither you nor any third party retains the ability to install
-modified object code on the User Product (for example, the work has
-been installed in ROM).
+    i) Convey object code under terms that make it a criminal offense
+    to possess or use the object code in ways prohibited or restricted
+    by this License, provided that the Corresponding Source for the
+    object code is available either from you or through a written offer
+    as described in subsection 6b.
 
-  The requirement to provide Installation Information does not include a
-requirement to continue to provide support service, warranty, or updates
-for a work that has been modified or installed by the recipient, or for
-the User Product in which it has been modified or installed.  Access to a
-network may be denied when the modification itself materially and
-adversely affects the operation of the network or violates the rules and
-protocols for communication across the network.
-
-  Corresponding Source conveyed, and Installation Information provided,
-in accord with this section must be in a format that is publicly
-documented (and with an implementation available to the public in
-source code form), and must require no special password or key for
-unpacking, reading or copying.
+    j) Convey object code under terms that prohibit the user from
+    conveying or modifying the object code, provided that the
+    Corresponding Source for the object code is available either from
+    you or through a written offer as described in subsection 6b, and
+    that the terms do not prohibit the user from making and using
+    copies of the Corresponding Source in ways permitted by this
+    License.
 
   7. Additional Terms.
 
@@ -347,62 +336,29 @@ License by making exceptions from one or more of its conditions.
 Additional permissions that are applicable to the entire Program shall
 be treated as though they were included in this License, to the extent
 that they are valid under applicable law.  If additional permissions
-apply only to part of the Program, that part may be used separately
-under those permissions, but the entire Program remains governed by
-this License without regard to the additional permissions.
+apply only to part of the Program, that part may not be used to convey
+the Program except as expressly provided herein.  Licensees that do not
+receive any of these additional permissions do not receive them under
+the terms of this License.
 
-  When you convey a copy of a covered work, you may at your option
-remove any additional permissions from that copy, or from any part of
-it.  (Additional permissions may be written to require their own
-removal in certain cases when you modify the work.)  You may place
-additional permissions on material, added by you to a covered work,
-for which you have or can give appropriate copyright permission.
+  If the Program as you received it provides "additional permissions"
+describing exceptions from or modifications to some of the conditions
+of the GPL, you may convey the Program with those additional
+permissions so long as you do not remove them.  If you modify the
+Program, you may extend or narrow those additional permissions so long
+as you do not narrow the scope of the additional permissions so as to
+deprive a recipient of any of the freedoms that the additional
+permissions grant.
 
-  Notwithstanding any other provision of this License, for material you
-add to a covered work, you may (if authorized by the copyright holders of
-that material) supplement the terms of this License with terms:
-
-    a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 15 and 16 of this License; or
-
-    b) Requiring preservation of specified reasonable legal notices or
-    author attributions in that material or in the Appropriate Legal
-    Notices displayed by works containing it; or
-
-    c) Prohibiting misrepresentation of the origin of that material, or
-    requiring that modified versions of such material be marked in
-    reasonable ways as different from the original version; or
-
-    d) Limiting the use for publicity purposes of names of licensors or
-    authors of the material; or
-
-    e) Declining to grant rights under trademark law for use of some
-    trade names, trademarks, or service marks; or
-
-    f) Requiring indemnification of licensors and authors of that
-    material by anyone who conveys the material (or modified versions of
-    it) with contractual assumptions of liability to the recipient, for
-    any liability that these contractual assumptions directly impose on
-    those licensors and authors.
-
-  All other non-permissive additional terms are considered "further
-restrictions" within the meaning of section 10.  If the Program as you
-received it, or any part of it, contains a notice stating that it is
-governed by this License along with a term that is a further
-restriction, you may remove that term.  If a license document contains
-a further restriction but permits relicensing or conveying under this
-License, you may add to a covered work material governed by the terms
-of that license document, provided that the further restriction does
-not survive such relicensing or conveying.
-
-  If you add terms to a covered work in accord with this section, you
-must place, in the relevant source files, a statement of the
-additional terms that apply to those files, or a notice indicating
-where to find the applicable terms.
-
-  Additional terms, permissive or non-permissive, may be stated in the
-form of a separately written license, or stated as exceptions;
-the above requirements apply either way.
+  Such additional permissions may be stated in the form of a separately
+written license, or stated as exceptions; the above requirements apply
+either way.  If the Program specifies that a proxy can decide which
+future versions of the GPL can be used, that proxy's public statement
+of acceptance of a version permanently authorizes you to choose that
+version for the Program.  Later license versions may give you
+additional or different permissions.  However, no additional
+obligations are imposed on any author or copyright holder as a result
+of your choosing to follow a later version.
 
   8. Termination.
 
@@ -631,8 +587,8 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    Pot-App EasyOCR Plugin, an OCR recognition plugin for Pot Translate using EasyOCR.
+    Copyright (C) 2025 Simon Pan
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -652,7 +608,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <program>  Copyright (C) <year>  <name of author>
+    Pot-App EasyOCR Plugin  Copyright (C) 2025 Simon Pan
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
